@@ -2,11 +2,11 @@
   <img src="./assets/banner.png" width="100%" alt="{eli}dev · webs y automatizaciones con IA para agencias de marketing y diseño">
 </p>
 
-<h3 align="center">Hola, soy Eli 👋 Desarrolladora full stack freelance</h3>
+<h3 align="center">Hola, soy Eli 👋 Desarrolladora full stack y fundadora de Inmoactiva y Tiendapi</h3>
 
 <p align="center">
-  Webs, tiendas online y automatizaciones con IA para agencias de marketing y diseño.<br>
-  <sub>Full-stack developer for agencies · websites, e-commerce and AI automation · remote from Argentina (UTC−3)</sub>
+  Creo productos completos, del modelo de datos al deploy: plataformas SaaS, sistemas de gestión, tiendas online y agentes de IA que atienden por WhatsApp.<br>
+  <sub>Full-stack developer and founder · SaaS, management systems, e-commerce and AI agents · remote from Argentina (UTC−3)</sub>
 </p>
 
 <p align="center">
@@ -17,59 +17,84 @@
 
 ---
 
-Hago webs desde 2015. Con los años sumé SEO técnico y medición, después sistemas a medida, y hoy me especializo en automatizaciones y agentes con IA. Desde 2022 coordino el desarrollo web en una agencia digital, así que conozco el trabajo de agencia desde adentro: briefs que cambian, clientes apurados y fechas que no se mueven.
+### 🚀 Productos que fundé
 
-### Qué hago
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/inmoactiva.jpg" alt="Portada de Inmoactiva"><br>
+<b>Inmoactiva</b> · SaaS para inmobiliarias<br>
+<sub>Toda la inmobiliaria en un panel: propiedades, consultas, alquileres con cobro de cuotas, reservas y equipo, más un sitio web con dominio propio para cada inmobiliaria. Se integra con Tokko Broker, Mercado Libre, WhatsApp y Facebook, y suma un agente de IA que responde consultas.</sub><br>
+<sub><code>Next.js</code> <code>Appwrite</code> <code>n8n</code> <code>WhatsApp API</code> <code>Mercado Pago</code> <code>multi-tenant</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://tiendapi.com"><img src="./assets/tiendapi.jpg" alt="Portada de Tiendapi"></a><br>
+<b><a href="https://tiendapi.com">Tiendapi</a></b> · tiendas online que venden por WhatsApp<br>
+<sub>Tienda, punto de venta y un vendedor con IA que atiende y cierra pedidos por WhatsApp, todo sobre el mismo stock. Carga por planillas, venta a granel, precios en varias monedas, preventa, cupones y permisos por rol.</sub><br>
+<sub><code>Next.js</code> <code>Appwrite</code> <code>WhatsApp</code> <code>IA</code> <code>multi-tenant</code></sub>
+</td>
+</tr>
+</table>
+
+### 🧩 Sistemas a medida
 
 | | |
 |---|---|
-| 🌐 **Webs y landings**<br>Next.js, Astro o WordPress, a partir del diseño de tu equipo. | 🛒 **Tiendas online**<br>Shopify, Tiendanube y WooCommerce. Migraciones sin perder productos ni posicionamiento. |
-| ⚙️ **Automatizaciones**<br>n8n y Zapier: Lead Ads, formularios, planillas y CRM conectados. | 💬 **Agentes de WhatsApp con IA**<br>Responden, califican y pasan la consulta a quien vende. |
-| 📈 **Medición que cierra**<br>Google Tag Manager, píxel y API de conversiones de Meta, Merchant Center. | 🧩 **Sistemas a medida**<br>Paneles de gestión, portales de clientes y CRMs. |
+| 🏋️ **Sistema para un gimnasio**<br>Web y panel propio: horarios, planes con cupos por disciplina, suscripciones, asistencia, reseñas y clases grabadas para socios. Resolví una auditoría de usabilidad de 22 puntos y la home bajó de 90 KB a 18 KB.<br><sub>`Next.js` `Appwrite` `Mercado Pago`</sub> | 🔥 **Landing con mapas de calor**<br>Con un sistema de seguimiento de conversiones: de dónde llega cada visita, qué hace en la página y cuándo se convierte en consulta. |
+| 📦 **Sistema de stock**<br>Productos, movimientos de entrada y salida y existencias al día. | 📋 **App de seguimiento de inventario**<br>Qué hay, dónde está y qué se movió, en una sola app. |
+| 🏬 **Ecommerce mayorista (B2B)**<br>Listas de precios, cuenta corriente, presupuestos, pedidos y stock, instalable en cualquier hosting compartido.<br><sub>`PHP` `MySQL` `Astro`</sub> | 🎯 **Prospección automatizada**<br>Busca negocios en Google Maps, puntúa cada lead según el rubro y envía mails personalizados con topes diarios y lista de exclusión.<br><sub>`Next.js` `SQLite` `Apify`</sub> |
 
-### Algunos resultados
+### 🤖 IA y automatización
 
-- Agente de IA en WhatsApp para un desarrollo inmobiliario, con un embudo de 7 etapas que califica y deriva sin inventar precios.
-- Corregí las conversiones de una tienda que le pasaba a Meta pesos como si fueran dólares: la facturación de las campañas salía inflada.
-- Dejé en regla un catálogo de 936 productos para Google Merchant Center.
-- Web de un gimnasio en Next.js con panel propio: resolví los 22 puntos de una auditoría de usabilidad y la home pasó de 90 KB a 18 KB.
+- **Agente de IA en WhatsApp** para un desarrollo inmobiliario: embudo de 7 etapas que califica y deriva a quien vende, sin inventar precios.
+- **CRM sobre WhatsApp con agentes de IA**: embudos por etapas y agentes que responden, califican y pasan la consulta.
+- **Flujos con n8n y Zapier**: los leads de Meta llegan solos a planillas y CRM, y las ventas vuelven a Meta como conversiones.
+- **Medición que cierra**: corregí una tienda que le pasaba a Meta pesos como si fueran dólares y dejé en regla 936 productos para Google Merchant Center.
+- **Segundo cerebro para agentes de IA**: memoria compartida en Obsidian para Claude Code y Codex, con registro automático de sesiones, resumen diario y pendientes.
+- **Contenido con código**: carruseles, portadas y videos para LinkedIn generados con React y Remotion.
 
-### Producto propio
+### 💼 Experiencia
 
-**[Tiendapi](https://tiendapi.com)** · tiendas online con WhatsApp integrado: catálogo por planillas, venta a granel, precios en varias monedas, preventa, cupones y punto de venta. El código es privado.
+| Desde | Rol |
+|---|---|
+| oct. 2026 | Fundadora · **Tiendapi** |
+| oct. 2026 | Desarrollo web white label · **2Factor** |
+| ago. 2026 | Fundadora · **Inmoactiva** |
+| ene. 2022 | Web Development Team Lead · **Adamas** |
+| 2015 | Desarrolladora web freelance: webs, tiendas online, SEO técnico y medición |
 
-### Stack
+### 🛠️ Stack
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-0F0F12?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React-0F0F12?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Astro-0F0F12?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro">
   <img src="https://img.shields.io/badge/TypeScript-0F0F12?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F0F12?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Node.js-0F0F12?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
   <img src="https://img.shields.io/badge/PHP-0F0F12?style=flat-square&logo=php&logoColor=777BB4" alt="PHP">
+  <img src="https://img.shields.io/badge/Appwrite-0F0F12?style=flat-square&logo=appwrite&logoColor=FD366E" alt="Appwrite">
+  <img src="https://img.shields.io/badge/PostgreSQL-0F0F12?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-0F0F12?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
   <img src="https://img.shields.io/badge/Shopify-0F0F12?style=flat-square&logo=shopify&logoColor=7AB55C" alt="Shopify">
   <img src="https://img.shields.io/badge/Tiendanube-0F0F12?style=flat-square" alt="Tiendanube">
   <img src="https://img.shields.io/badge/WordPress-0F0F12?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/WooCommerce-0F0F12?style=flat-square&logo=woocommerce&logoColor=A47DC9" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/MySQL-0F0F12?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-0F0F12?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/n8n-0F0F12?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n">
   <img src="https://img.shields.io/badge/Zapier-0F0F12?style=flat-square&logo=zapier&logoColor=FF4F00" alt="Zapier">
-  <img src="https://img.shields.io/badge/OpenAI-0F0F12?style=flat-square" alt="OpenAI">
   <img src="https://img.shields.io/badge/WhatsApp_API-0F0F12?style=flat-square&logo=whatsapp&logoColor=25D366" alt="API de WhatsApp">
+  <img src="https://img.shields.io/badge/OpenAI-0F0F12?style=flat-square" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Claude_Code-0F0F12?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Mercado_Pago-0F0F12?style=flat-square&logo=mercadopago&logoColor=00B1EA" alt="Mercado Pago">
   <img src="https://img.shields.io/badge/Google_Tag_Manager-0F0F12?style=flat-square&logo=googletagmanager&logoColor=246FDB" alt="Google Tag Manager">
   <img src="https://img.shields.io/badge/Docker-0F0F12?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
   <img src="https://img.shields.io/badge/Cloudflare-0F0F12?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Remotion-0F0F12?style=flat-square" alt="Remotion">
 </p>
 
-### Cómo trabajo
+### 🤝 ¿Tu agencia o tu empresa necesita una mano técnica?
 
-- Tu agencia queda al frente: no contacto a tu cliente si no me lo pedís.
-- Presupuesto cerrado por proyecto o paquete de horas para los picos de trabajo.
-- Entrego con documentación, y los accesos quedan a nombre de la agencia o del cliente.
-
-### ¿Tu agencia tiene más proyectos que manos?
-
-Escribime por [LinkedIn](https://www.linkedin.com/in/eliazdev) o contratame en [Fiverr](https://www.fiverr.com/elyazcurra90) y lo vemos.
+Me sumo a tu equipo y me ocupo de la parte técnica de punta a punta: presupuesto cerrado por proyecto o paquete de horas, entrega con documentación y accesos a tu nombre.
+Escribime por [LinkedIn](https://www.linkedin.com/in/eliazdev) o contratame en [Fiverr](https://www.fiverr.com/elyazcurra90).
 
 <p align="center"><sub>{eli}dev · La Rioja, Argentina · trabajo en remoto</sub></p>
