@@ -17,6 +17,72 @@
 
 ---
 
+### 🧪 Productos listos para adaptar
+
+Siete sistemas que diseñé y armé como demo navegable. Cada uno se lleva a la marca y al negocio de tu cliente.
+
+<p align="center">
+  <a href="https://orbitalnestdev.github.io/saas-concepts/"><img src="https://img.shields.io/badge/Ver_las_7_demos-en_vivo-7C5CFF?style=for-the-badge" alt="Ver las 7 demos en vivo"></a>
+  <a href="https://github.com/orbitalnestdev/saas-concepts"><img src="https://img.shields.io/badge/C%C3%B3digo-saas--concepts-0F0F12?style=for-the-badge&logo=github&logoColor=white" alt="Código en saas-concepts"></a>
+</p>
+
+<table>
+<tr>
+<td colspan="2" width="100%" valign="top">
+<a href="https://orbitalnestdev.github.io/saas-concepts/turnly.html"><img src="https://github.com/orbitalnestdev/saas-concepts/raw/main/screenshots/turnly.jpg" alt="Panel de Turnly"></a><br>
+<b><a href="https://orbitalnestdev.github.io/saas-concepts/turnly.html">Turnly</a></b> · app de turnos para el celular<br>
+<sub>El cliente reserva servicio, profesional y horario, deja una seña y recibe recordatorios por WhatsApp. El negocio ve la agenda, la ocupación y los ingresos del día.</sub><br>
+<sub><code>React Native</code> <code>Expo</code> <code>Supabase</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://orbitalnestdev.github.io/saas-concepts/leadnest.html"><img src="https://github.com/orbitalnestdev/saas-concepts/raw/main/screenshots/leadnest.jpg" alt="Panel de Leadnest"></a><br>
+<b><a href="https://orbitalnestdev.github.io/saas-concepts/leadnest.html">Leadnest</a></b> · CRM con WhatsApp e IA<br>
+<sub>Pipeline con el canal y un puntaje de IA en cada oportunidad, y el resumen de cada conversación con la intención y el próximo paso.</sub><br>
+<sub><code>Next.js</code> <code>PostgreSQL</code> <code>OpenAI</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://orbitalnestdev.github.io/saas-concepts/replyo.html"><img src="https://github.com/orbitalnestdev/saas-concepts/raw/main/screenshots/replyo.jpg" alt="Panel de Replyo"></a><br>
+<b><a href="https://orbitalnestdev.github.io/saas-concepts/replyo.html">Replyo</a></b> · inbox de WhatsApp con agentes de IA<br>
+<sub>La IA responde con la información del negocio, agenda turnos y pasa la charla a una persona con todo el contexto.</sub><br>
+<sub><code>Next.js</code> <code>n8n</code> <code>WhatsApp Cloud API</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://orbitalnestdev.github.io/saas-concepts/marginly.html"><img src="https://github.com/orbitalnestdev/saas-concepts/raw/main/screenshots/marginly.jpg" alt="Panel de Marginly"></a><br>
+<b><a href="https://orbitalnestdev.github.io/saas-concepts/marginly.html">Marginly</a></b> · ganancia real de una tienda online<br>
+<sub>Costo, envío, comisiones y publicidad producto por producto, con ideas de la IA y su impacto estimado.</sub><br>
+<sub><code>Next.js</code> <code>Shopify API</code> <code>Meta Ads</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://orbitalnestdev.github.io/saas-concepts/kinetik.html"><img src="https://github.com/orbitalnestdev/saas-concepts/raw/main/screenshots/kinetik.jpg" alt="Panel de Kinetik"></a><br>
+<b><a href="https://orbitalnestdev.github.io/saas-concepts/kinetik.html">Kinetik</a></b> · gestión para gimnasios<br>
+<sub>Socios, clases con cupo, pagos y la lista de quienes dejaron de venir, con recordatorio por WhatsApp en un clic.</sub><br>
+<sub><code>Next.js</code> <code>Prisma</code> <code>Stripe</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://orbitalnestdev.github.io/saas-concepts/bulkly.html"><img src="https://github.com/orbitalnestdev/saas-concepts/raw/main/screenshots/bulkly.jpg" alt="Panel de Bulkly"></a><br>
+<b><a href="https://orbitalnestdev.github.io/saas-concepts/bulkly.html">Bulkly</a></b> · pedidos mayoristas B2B<br>
+<sub>Pedido rápido por SKU con la lista de precios de cada cliente, mínimos por bulto y stock por depósito.</sub><br>
+<sub><code>Next.js</code> <code>Node.js</code> <code>PostgreSQL</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://orbitalnestdev.github.io/saas-concepts/nutrio.html"><img src="https://github.com/orbitalnestdev/saas-concepts/raw/main/screenshots/nutrio.jpg" alt="Panel de Nutrio"></a><br>
+<b><a href="https://orbitalnestdev.github.io/saas-concepts/nutrio.html">Nutrio</a></b> · panel para nutricionistas<br>
+<sub>Evolución de cada paciente, macros del día, plan semanal armado con IA y registro de comidas por foto.</sub><br>
+<sub><code>Next.js</code> <code>Supabase</code> <code>OpenAI</code></sub>
+</td>
+</tr>
+</table>
+
+<sub>Las demos usan marcas y datos de ejemplo, en inglés.</sub>
+
+---
+
 ### 🚀 Productos que fundé
 
 <table>
