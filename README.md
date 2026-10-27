@@ -97,7 +97,7 @@ Siete sistemas que diseñé y armé como demo navegable. Cada uno se lleva a la 
 </tr>
 </table>
 
-<sub>Las demos usan marcas y datos de ejemplo, en inglés.</sub>
+<sub>Las demos usan marcas y datos de ejemplo.</sub>
 
 ### 🌐 Proyectos en producción
 
