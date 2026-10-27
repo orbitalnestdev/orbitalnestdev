@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" width="100%" alt="{eli}dev · webs y automatizaciones con IA para agencias de marketing y diseño">
 </p>
 
-<h3 align="center">Hola, soy Eli 👋 Desarrolladora full stack y fundadora de Inmoactiva y Tiendapi</h3>
+<h3 align="center">Hola, soy Eli 👋 Desarrolladora full stack</h3>
 
 <p align="center">
   Creo productos completos, del modelo de datos al deploy: plataformas SaaS, sistemas de gestión, tiendas online y agentes de IA que atienden por WhatsApp.<br>
