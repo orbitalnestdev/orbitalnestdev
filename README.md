@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eliazdev"><img src="https://img.shields.io/badge/LinkedIn-eliazdev-7C5CFF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"></a>
-  <a href="https://www.fiverr.com/elyazcurra90"><img src="https://img.shields.io/badge/Fiverr-servicios-7C5CFF?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
   <img src="https://img.shields.io/badge/disponible-nuevos_proyectos-0F0F12?style=for-the-badge" alt="Disponible para nuevos proyectos">
 </p>
 
@@ -100,6 +99,55 @@ Siete sistemas que diseñé y armé como demo navegable. Cada uno se lleva a la 
 
 <sub>Las demos usan marcas y datos de ejemplo, en inglés.</sub>
 
+### 🌐 Proyectos en producción
+
+Sitios, tiendas y plataformas que hoy están online. Entrá y recorrelos.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://kaptativa.com"><img src="./assets/proyecto-kaptativa.jpg" alt="Kaptativa en escritorio y celular"></a><br>
+<b><a href="https://kaptativa.com">Kaptativa</a></b> · plataforma por rubro con IA<br>
+<sub>Mi estudio. Una plataforma modular que se configura para cada rubro, con un asistente con IA en WhatsApp.</sub><br>
+<sub><code>Astro</code> <code>Next.js</code> <code>Node.js</code> <code>Appwrite</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://urbanpoints.com.ar"><img src="./assets/proyecto-urbanpoint.jpg" alt="UrbanPoint en escritorio y celular"></a><br>
+<b><a href="https://urbanpoints.com.ar">UrbanPoint</a></b> · tienda con retiro en el kiosco del barrio<br>
+<sub>Miles de productos sincronizados desde el sistema de gestión y retiro gratis en puestos de canillitas.</sub><br>
+<sub><code>Astro</code> <code>TypeScript</code> <code>Appwrite</code> <code>Mercado Pago</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://muvpropiedades.com"><img src="./assets/proyecto-muv.jpg" alt="MUV Propiedades en escritorio y celular"></a><br>
+<b><a href="https://muvpropiedades.com">MUV Propiedades</a></b> · sitio inmobiliario conectado a Tokko<br>
+<sub>El sitio de una inmobiliaria premium de Buenos Aires que toma todo el catálogo de Tokko Broker y se arma solo.</sub><br>
+<sub><code>Astro</code> <code>TypeScript</code> <code>Tailwind</code> <code>API de Tokko Broker</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://anchus.com.ar"><img src="./assets/proyecto-anchus.jpg" alt="Anchus en escritorio y celular"></a><br>
+<b><a href="https://anchus.com.ar">Anchus</a></b> · indumentaria infantil, mayorista y minorista<br>
+<sub>Indumentaria infantil con fabricación propia. El sitio muestra la colección y lleva a cada comercio a su catálogo mayorista.</sub><br>
+<sub><code>Vite</code> <code>React</code> <code>PHP</code> <code>MySQL</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://caoseyewear.com.ar"><img src="./assets/proyecto-caos.jpg" alt="Caos Eyewear en escritorio y celular"></a><br>
+<b><a href="https://caoseyewear.com.ar">Caos Eyewear</a></b> · tienda de anteojos en TiendaNube<br>
+<sub>TiendaNube con identidad propia, el 10x1 explicado en tres pasos y una página de preguntas que vende.</sub><br>
+<sub><code>TiendaNube</code> <code>Tema Ipanema</code> <code>CSS a medida</code> <code>JavaScript</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://aomatcha.co"><img src="./assets/proyecto-aomatcha.jpg" alt="Ao Matcha en escritorio y celular"></a><br>
+<b><a href="https://aomatcha.co">Ao Matcha</a></b> · tienda de matcha en TiendaNube<br>
+<sub>Migración a TiendaNube replicando el diseño original en el código del tema, con la historia del té al frente.</sub><br>
+<sub><code>TiendaNube</code> <code>Tema Ipanema</code> <code>JavaScript</code> <code>CSS a medida</code></sub>
+</td>
+</tr>
+</table>
+
 ### 🧩 Sistemas a medida
 
 | | |
@@ -159,6 +207,6 @@ Siete sistemas que diseñé y armé como demo navegable. Cada uno se lleva a la 
 ### 🤝 ¿Tu agencia o tu empresa necesita una mano técnica?
 
 Me sumo a tu equipo y me ocupo de la parte técnica de punta a punta: presupuesto cerrado por proyecto o paquete de horas, entrega con documentación y accesos a tu nombre.
-Escribime por [LinkedIn](https://www.linkedin.com/in/eliazdev) o contratame en [Fiverr](https://www.fiverr.com/elyazcurra90).
+Escribime por [LinkedIn](https://www.linkedin.com/in/eliazdev).
 
 <p align="center"><sub>{eli}dev · La Rioja, Argentina · trabajo en remoto</sub></p>
