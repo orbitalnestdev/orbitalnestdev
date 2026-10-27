@@ -17,6 +17,25 @@
 
 ---
 
+### 🚀 Productos que fundé
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/inmoactiva.jpg" alt="Portada de Inmoactiva"><br>
+<b>Inmoactiva</b> · SaaS para inmobiliarias<br>
+<sub>Toda la inmobiliaria en un panel: propiedades, consultas, alquileres con cobro de cuotas, reservas y equipo, más un sitio web con dominio propio para cada inmobiliaria. Se integra con Tokko Broker, Mercado Libre, WhatsApp y Facebook, y suma un agente de IA que responde consultas.</sub><br>
+<sub><code>Next.js</code> <code>Appwrite</code> <code>n8n</code> <code>WhatsApp API</code> <code>Mercado Pago</code> <code>multi-tenant</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://tiendapi.com"><img src="./assets/tiendapi.jpg" alt="Portada de Tiendapi"></a><br>
+<b><a href="https://tiendapi.com">Tiendapi</a></b> · tiendas online que venden por WhatsApp<br>
+<sub>Tienda, punto de venta y un vendedor con IA que atiende y cierra pedidos por WhatsApp, todo sobre el mismo stock. Carga por planillas, venta a granel, precios en varias monedas, preventa, cupones y permisos por rol.</sub><br>
+<sub><code>Next.js</code> <code>Appwrite</code> <code>WhatsApp</code> <code>IA</code> <code>multi-tenant</code></sub>
+</td>
+</tr>
+</table>
+
 ### 🧪 Productos listos para adaptar
 
 Siete sistemas que diseñé y armé como demo navegable. Cada uno se lleva a la marca y al negocio de tu cliente.
@@ -80,27 +99,6 @@ Siete sistemas que diseñé y armé como demo navegable. Cada uno se lleva a la 
 </table>
 
 <sub>Las demos usan marcas y datos de ejemplo, en inglés.</sub>
-
----
-
-### 🚀 Productos que fundé
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/inmoactiva.jpg" alt="Portada de Inmoactiva"><br>
-<b>Inmoactiva</b> · SaaS para inmobiliarias<br>
-<sub>Toda la inmobiliaria en un panel: propiedades, consultas, alquileres con cobro de cuotas, reservas y equipo, más un sitio web con dominio propio para cada inmobiliaria. Se integra con Tokko Broker, Mercado Libre, WhatsApp y Facebook, y suma un agente de IA que responde consultas.</sub><br>
-<sub><code>Next.js</code> <code>Appwrite</code> <code>n8n</code> <code>WhatsApp API</code> <code>Mercado Pago</code> <code>multi-tenant</code></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://tiendapi.com"><img src="./assets/tiendapi.jpg" alt="Portada de Tiendapi"></a><br>
-<b><a href="https://tiendapi.com">Tiendapi</a></b> · tiendas online que venden por WhatsApp<br>
-<sub>Tienda, punto de venta y un vendedor con IA que atiende y cierra pedidos por WhatsApp, todo sobre el mismo stock. Carga por planillas, venta a granel, precios en varias monedas, preventa, cupones y permisos por rol.</sub><br>
-<sub><code>Next.js</code> <code>Appwrite</code> <code>WhatsApp</code> <code>IA</code> <code>multi-tenant</code></sub>
-</td>
-</tr>
-</table>
 
 ### 🧩 Sistemas a medida
 
